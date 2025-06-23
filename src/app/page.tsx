@@ -23,8 +23,8 @@ export default function Home() {
       <ClientReviewsSection />
       <TrustedBySection />
       <CertificateSection />
-      <Contact/>
-      <VideoSlider/>
+      <Contact />
+      <VideoSlider />
       <Footer />
     </>
   );
